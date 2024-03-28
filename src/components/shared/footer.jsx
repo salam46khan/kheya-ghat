@@ -15,7 +15,7 @@ const Footer = () => {
                             <p><span className="text-5xl font-bold text-white">Kheya</span> <span className="text-5xl font-thin text-lime-300">Ghat</span></p>
                         </div>
                         <p className=" p-2 border-[#777]">
-                            Whether you&apos;re a boat owner looking for efficient serial management solutions or an adventurer seeking thrilling boat trips, we&apos;ve got you covered. Our user-friendly platform offers a comprehensive range of features, from hassle-free serial registration and tracking to personalized trip planning and booking.
+                            Whether you&apos;re a boat owner looking for efficient serial management solutions or an adventurer seeking thrilling boat trips. We&apos;ve got you covered. <br /> Our user-friendly platform offers a comprehensive range of features, from hassle-free serial registration and tracking to personalized trip planning and booking.
                         </p>
                     </div>
                     <div className="w-full md:w-1/2 p-4 flex flex-col md:flex-row gap-2">

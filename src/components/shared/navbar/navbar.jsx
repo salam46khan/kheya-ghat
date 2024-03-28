@@ -9,7 +9,7 @@ const Navbar = () => {
         <li><Link href={'about'}>About</Link></li>
     </>
     return (
-        <div className="shadow-md shadow-[#fff2] bg-[#fff] fixed top-0 w-full">
+        <div className="shadow-md shadow-[#fff2] bg-[#fff] fixed top-0 w-full z-50">
             <div className="navbar " id='navbar'>
                 <div className="navbar-start">
                     <div className="dropdown nav-links">
